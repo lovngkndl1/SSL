@@ -1,3 +1,1 @@
-"# SSL"
-  **Compilador:** gcc
-  **Version:** 14.2.0
+"# SSL"   **Compilador:** gcc   **Version:** 14.2.0
